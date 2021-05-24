@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "viies.css",
+	"sources": [
+		"../../scss/viies.scss"
+	],
+	"sourcesContent": [
+		"h1 { color: #ffffff; font-family: 'Fredoka One', cursive; font-size: 150px; letter-spacing: -1px; line-height: 1; }\r\nh2 {\r\n    font-family: 'Fredoka One', cursive;\r\n    color: #6c757d;\r\n}\r\na {\r\n    font-family: 'Fredoka One', cursive;\r\n}\r\n\r\np {\r\n    font-family: 'Fredoka One', cursive;\r\n    color: #707070;\r\n}\r\n.btn-secondary {\r\n    background: #0051ff;\r\n    letter-spacing: 1px;\r\n\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,EAAE,AAAC,CAAE,KAAK,CAAE,OAAO,CAAE,WAAW,CAAE,sBAAsB,CAAE,SAAS,CAAE,KAAK,CAAE,cAAc,CAAE,IAAI,CAAE,WAAW,CAAE,CAAC,CAAI,AACpH,AAAA,EAAE,AAAC,CACC,WAAW,CAAE,sBAAsB,CACnC,KAAK,CAAE,OAAO,CACjB,AACD,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,sBAAsB,CACtC,AAED,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,sBAAsB,CACnC,KAAK,CAAE,OAAO,CACjB,AACD,AAAA,cAAc,AAAC,CACX,UAAU,CAAE,OAAO,CACnB,cAAc,CAAE,GAAG,CAEtB"
+}
